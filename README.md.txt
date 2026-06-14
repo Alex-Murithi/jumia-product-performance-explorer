@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/dashboard.png" width="800">
+</p>
 📊 JUMIA PRODUCT PERFORMANCE EXPLORER
 E-Commerce Product Insights (Jumia Dataset)
 📌 Overview
