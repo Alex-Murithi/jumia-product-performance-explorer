@@ -12,7 +12,7 @@ This project is an Excel-based dashboard analyzing Jumia product data to generat
 Clean and prepare raw product data
 Create product categories for analysis
 Build an interactive Excel dashboard
-Analyze relationships between ratings, reviews, and discounts
+Analyze relationships between ratings, reviews, and discounts.
 
 📁 Deliverables:
 Cleaned and enriched Excel dataset
