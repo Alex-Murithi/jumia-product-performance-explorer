@@ -5,7 +5,7 @@ Dashboard Preview
 📊 JUMIA PRODUCT PERFORMANCE EXPLORER
 E-Commerce Product Insights (Jumia Dataset)
 
-📌 Overview
+📌 Overview:
 This project is an Excel-based dashboard analyzing Jumia product data to generate insights on product performance, ratings, reviews, and discounts.
 
 🎯 Objectives:
